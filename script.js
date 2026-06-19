@@ -9,3 +9,9 @@ function newScript() {
     console.log('New script added');
     console.log('NEW Function added');
 }
+
+
+function newtest() {
+    console.log('test function added');
+    console.log('new extra file');
+}
