@@ -20,3 +20,5 @@ console.log('Today you are working on git branches');
 console.log('I have been learning english since morning');
 
 console.log('You are learning jenkins along with git');
+console.log("New function addition");
+console.log('Chekout');
